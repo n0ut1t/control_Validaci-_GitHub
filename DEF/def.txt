@@ -2,3 +2,5 @@ nom = def
 edat = 23
 estudias = ns
 professio = ns
+projectes treballats = 2
+eines utilitzades = vs, java

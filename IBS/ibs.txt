@@ -2,3 +2,5 @@ nom = Iker Blanco Soriano
 edat = 19
 estudias = daw
 professio = ns
+projectes treballats = 1
+eines utilitzades = vs, python, javascript, c++
