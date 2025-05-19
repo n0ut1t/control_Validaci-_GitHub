@@ -1,0 +1,4 @@
+nom = Iker Blanco Soriano
+edat = 19
+estudias = daw
+professio = ns

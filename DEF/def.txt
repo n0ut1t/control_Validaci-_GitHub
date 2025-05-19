@@ -1,0 +1,4 @@
+nom = def
+edat = 23
+estudias = ns
+professio = ns

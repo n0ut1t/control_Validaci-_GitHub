@@ -1,0 +1,4 @@
+nom = abc
+edat = 32
+estudias = ns
+professio = ns
